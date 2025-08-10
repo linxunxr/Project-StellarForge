@@ -1,0 +1,18 @@
+{
+  "appSelected": {
+    "appId": "6917580904280258005",
+    "appName": "星轨计算器",
+    "deviceTypes": [
+      {
+        "deviceType": 4
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 0,
+    "packageType": 7,
+    "projectId": "461323198430200820",
+    "projectName": "星火",
+    "siteId": "CN"
+  },
+  "teamId": "70086000308143970"
+}
